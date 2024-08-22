@@ -1,4 +1,3 @@
-import React from "react";
 import HomeImageCard from "@/components/Layout/Home/HomeImageCard";
 import Thevi from "../assets/thevipicture.jpeg";
 import Praksis from "@/components/Layout/Home/Praksis";
@@ -19,8 +18,8 @@ const Home = () => {
             linkedin={"https://www.linkedin.com/in/vithethach/"}
             portfolio={"https://thevithach.vercel.app/"}
           />
-          <HomeImageCard 
-            picture={Felix} 
+          <HomeImageCard
+            picture={Felix}
             name={"Felix Knutsen"}
             description={
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum."
