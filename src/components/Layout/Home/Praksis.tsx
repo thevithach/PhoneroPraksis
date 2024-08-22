@@ -19,7 +19,9 @@ const Praksis = () => {
           </div>
           <div className="p-4">
             <p className=" text-gray-600">Høst Internship med Phonero</p>
-            <h2 className="text-3xl font-medium">Phonero - Praksis</h2>
+            <h2 className="text-3xl font-medium">
+              Phonero - Oppgavebeskrivelse
+            </h2>
             <p className="py-2">
               I løpet av høstsemesteret 2024 skal vi jobbe omtrent to dager i
               uken for Phonero gjennom praksisprogrammet ved UiA. Gjennom denne
