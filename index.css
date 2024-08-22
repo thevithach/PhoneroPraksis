@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+}
+
+.gradient-hover {
+  background-image: linear-gradient(to right, #f87171, #ef4444);
+  background-repeat: no-repeat;
+  background-size: 0 100%;
+  transition: background-size 0.3s ease-in-out;
+}
+
+.gradient-hover:hover {
+  background-size: 100% 100%;
+}
+
+.roboto-condensed-drip {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
