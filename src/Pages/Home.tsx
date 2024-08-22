@@ -2,6 +2,7 @@ import React from "react";
 import HomeImageCard from "@/components/Layout/Home/HomeImageCard";
 import Thevi from "../assets/thevipicture.jpeg";
 import Praksis from "@/components/Layout/Home/Praksis";
+import Felix from "../assets/felixpicture.jpg";
 
 const Home = () => {
   return (
@@ -18,14 +19,14 @@ const Home = () => {
             linkedin={"https://www.linkedin.com/in/vithethach/"}
             portfolio={"https://thevithach.vercel.app/"}
           />
-          <HomeImageCard
-            picture={Thevi} // Legg til bilde i assets mappen
-            name={"Felix Knudsen"}
+          <HomeImageCard 
+            picture={Felix} 
+            name={"Felix Knutsen"}
             description={
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum."
             }
-            github={"placeholder skriv link"}
-            linkedin={"placeholder skriv link"}
+            github={"https://github.com/FelixKnutsen"}
+            linkedin={"https://www.linkedin.com/in/felix-knutsen/"}
           />
         </div>
       </div>
