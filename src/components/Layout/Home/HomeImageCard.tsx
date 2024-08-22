@@ -27,15 +27,15 @@ const HomeImageCard: React.FC<HomeImageCardProps> = ({
       <section className="text-gray-600 sm:w-2/3 lg:w-11/12 text-center">
         <p>{description}</p>
         <div className="flex justify-center gap-4 text-5xl p-4 text-black">
-          <a href={linkedin} className="hover:opacity-60">
+          <a href={linkedin} target="_blank" className="hover:opacity-60">
             <i className="fa-brands fa-linkedin"></i>
           </a>
-          <a href={github} className="hover:opacity-60">
+          <a href={github} target="_blank" className="hover:opacity-60">
             <i className="fa-brands fa-github"></i>
           </a>
           {portfolio && (
             <>
-              <a href={portfolio} className="hover:opacity-60">
+              <a href={portfolio} target="_blank" className="hover:opacity-60">
                 <i className="fa-solid fa-address-card"></i>
               </a>
             </>

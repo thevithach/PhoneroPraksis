@@ -1,7 +1,6 @@
 import phonero from "../assets/phoneroLogoSmall.png";
 import EPSI from "../assets/EPSI.png";
 import BYTT from "../assets/BYTT.jpg";
-import THEVI from "../assets/profilePic.jpeg";
 
 const Phonero_Oppgavebeskrivelse = () => {
   return (
@@ -39,11 +38,11 @@ const Phonero_Oppgavebeskrivelse = () => {
           Forventninger
         </h2>
         <p>
-          I løpet av praksisprogrammet, skal jeg samarbeide tett med
-          utviklerteamet. Jeg tror at dette blir en lærerik opplevelse som vil
-          gi meg dypere forståelse for programmering. Personlig har jeg jobbet
-          tidligere mye med Phoneros teknologistack, men jeg har fortsatt mye
-          kunnskapsmangel innenfor disse som jeg håper blir dekket i løpet av
+          I løpet av praksisprogrammet, skal vi samarbeide tett med
+          utviklerteamet. Vi tror at dette blir en lærerik opplevelse som vil
+          gi oss dypere forståelse for programmering. Personlig har vi jobbet
+          tidligere mye med Phoneros teknologistack, men vi har fortsatt mye
+          kunnskapsmangel innenfor disse som vi håper blir dekket i løpet av
           praksisperioden.{" "}
         </p>
         <h2 className="font-semibold text-3xl py-2 text-black">
