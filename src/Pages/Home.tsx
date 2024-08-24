@@ -12,7 +12,7 @@ const Home = () => {
             picture={Thevi}
             name={"Vi The Thach"}
             description={
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum."
+              "Vi The er en student som har jobbet med flere utviklingsprosjekter. Han har erfaring med flere teknologier, frameworks og kodespråk. Han har også jobbet med flere prosjekter som har gitt han en god forståelse av hvordan det er å jobbe som utvikler. Han har da fått praksisplass hos Phonero som utvikler."
             }
             github={"https://github.com/thevithach"}
             linkedin={"https://www.linkedin.com/in/vithethach/"}
@@ -22,7 +22,7 @@ const Home = () => {
             picture={Felix}
             name={"Felix Knutsen"}
             description={
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non urna luctus nisl mattis condimentum eu eget arcu. Nam sodales feugiat libero in vestibulum."
+              "Felix er en ivrig student som har jobbet med flere utvikling-prosjekter. Der har han lært om forskjellige teknologier, frameworks og kodespråk. Med den erfaringen har han fått praksisplass hos Phonero. Der vil han få mulighet til å få en større forsåelse av hvordan det er å jobbe som utvikler samt at han vil lære mye om react og typescript."
             }
             github={"https://github.com/FelixKnutsen"}
             linkedin={"https://www.linkedin.com/in/felix-knutsen/"}
