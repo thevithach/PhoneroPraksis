@@ -12,7 +12,7 @@ const Home = () => {
             picture={Thevi}
             name={"Vi The Thach"}
             description={
-              "Vi The er en student som har jobbet med flere utviklingsprosjekter. Han har erfaring med flere teknologier, frameworks og kodespråk. Han har også jobbet med flere prosjekter som har gitt han en god forståelse av hvordan det er å jobbe som utvikler. Han har da fått praksisplass hos Phonero som utvikler."
+              "Vi The Thach er en engasjert tredjeårs student med erfaring fra flere utviklingsprosjekter. Han behersker ulike teknologier, rammeverk og programmeringsspråk. Gjennom praksisperioden vil han tilegne seg verdifull erfaring innen utvikling. Praksisplassen gir han en verdifull mulighet til å videreutvikle sine ferdigheter og øke sin kompetanse."
             }
             github={"https://github.com/thevithach"}
             linkedin={"https://www.linkedin.com/in/vithethach/"}
@@ -22,7 +22,7 @@ const Home = () => {
             picture={Felix}
             name={"Felix Knutsen"}
             description={
-              "Felix er en ivrig student som har jobbet med flere utvikling-prosjekter. Der har han lært om forskjellige teknologier, frameworks og kodespråk. Med den erfaringen har han fått praksisplass hos Phonero. Der vil han få mulighet til å få en større forsåelse av hvordan det er å jobbe som utvikler samt at han vil lære mye om react og typescript."
+              "Felix er en ivrig student som har jobbet med flere utvikling-prosjekter. Der har han lært om forskjellige teknologier, frameworks og kodespråk. Med den erfaringen har han fått praksisplass hos Phonero. Der vil han få mulighet til å få en større forsåelse av hvordan det er å jobbe som utvikler samt at han vil lære mye om React og Typescript."
             }
             github={"https://github.com/FelixKnutsen"}
             linkedin={"https://www.linkedin.com/in/felix-knutsen/"}
