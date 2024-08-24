@@ -50,7 +50,7 @@ const Praksis = () => {
               adipiscing elit. Curabitur libero nulla, mollis sit amet molestie
               a, volutpat at nibh. Etiam quis pellentesque ante.
             </p>
-            <Link to="/Praksis/Phonero/Status/1">
+            <Link to="/Phonero/Status/1">
               <button className="w-36 h-10 bg-gradient-to-r from-red-400  to-red-500 text-white rounded-md hover:opacity-90">
                 Les mer
               </button>
