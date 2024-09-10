@@ -12,9 +12,11 @@ const Phonero_Status_1 = () => {
             </span>
           </div>
         </div>
-        <img src={phonero} className="object-fit  p-4" />
+        <img src={phonero} className="object-fit p-4" />
       </div>
       <div className="p-2">
+        <h1 className="font-semibold text-4xl pb-2">Status 1</h1>
+
         <h2 className="text-2xl font-semibold">Om Phonero</h2>
         {/* Litt om phonero her */}
         <p>
@@ -22,9 +24,9 @@ const Phonero_Status_1 = () => {
           mobilabonnement og telefoniløsninger for bedrifter. De har over 350
           000 brukere fordelt på 30 000 bedriftskunder.
         </p>
-        <div className="flex py-4">
-          <div className="w-1/2 bg-gray-200">
-            <h2 className="text-2xl font-semibold ">Arbeidsoppgaver</h2>
+        <div className="flex py-4 gap-4 md:flex-row flex-col">
+          <div className="md:w-1/2 w-full">
+            <h2 className="text-2xl font-semibold pb-1">Arbeidsoppgaver</h2>
             {/* Arbeidsoppgaver beskrivelse her */}
             <h2 className="text-lg font-bold">
               Tilleggsinformasjon på fakturasiden
@@ -50,10 +52,11 @@ const Phonero_Status_1 = () => {
               Vi har utviklet en popup-funksjon i mobilappen som spør brukerne
               om de ønsker å motta kundeaviser og tilbud på e-post. I tillegg
               holder vi på å lage en egen side hvor kundene kan endre disse
-              innstillingene når som helst.
+              innstillingene når som helst. Dette lar oss praktisere både
+              back-end og front-end.
             </p>
           </div>
-          <div className="w-1/2 bg-red-500">
+          <div className="md:w-1/2 w-full">
             <img src={phoneroPhoneView} className="object-fit" />
           </div>
         </div>
