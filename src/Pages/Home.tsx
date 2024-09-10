@@ -22,7 +22,7 @@ const Home = () => {
             picture={Felix}
             name={"Felix Knutsen"}
             description={
-              "Felix er en ivrig student som har jobbet med flere utvikling-prosjekter. Der har han lært om forskjellige teknologier, frameworks og kodespråk. Med den erfaringen har han fått praksisplass hos Phonero. Der vil han få mulighet til å få en større forsåelse av hvordan det er å jobbe som utvikler samt at han vil lære mye om React og Typescript."
+              "Felix er en engasjert student med erfaring fra flere utviklingsprosjekter, hvor han har lært om ulike teknologier, rammeverk og programmeringsspråk. Denne erfaringen har gitt ham en praksisplass hos Phonero, hvor han vil få en dypere forståelse av utviklerrollen. I tillegg vil han få muligheten til å fordype seg i moderne teknologier og utviklingsmetoder."
             }
             github={"https://github.com/FelixKnutsen"}
             linkedin={"https://www.linkedin.com/in/felix-knutsen/"}
