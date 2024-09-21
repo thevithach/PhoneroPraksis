@@ -4,7 +4,7 @@ import phoneroPhoneView from "../assets/PhoneroMobileView.png";
 const Phonero_Status_1 = () => {
   return (
     <div className="container mx-auto max-w-screen-lg min-h-[85vh] p-4">
-      <div className="flex justify-between px-2 items-center ">
+      <div className="flex justify-between px-2 items-center">
         <div>
           <div className="flex items-center space-x-3">
             <span className=" text-gray-600">
@@ -71,6 +71,17 @@ const Phonero_Status_1 = () => {
             suksess og utvikle innovative løsninger som møter kundenes, og
             bedriftens behov.
           </p>
+        </div>
+      </div>
+      <div className="statusPresentasjon">
+        <h2 className="text-2xl font-bold">Status 1 - Presentasjon</h2>
+        <div className="videoStatus">
+          <iframe
+            src="https://uiano-my.sharepoint.com/personal/felixfk_uia_no/_layouts/15/embed.aspx?UniqueId=870581e8-7acd-4ff4-9543-2feeb7b36373&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A0%7D%7D&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create"
+            width="640"
+            height="360"
+            title="Phonero Praksis Status 1 "
+          ></iframe>
         </div>
       </div>
     </div>

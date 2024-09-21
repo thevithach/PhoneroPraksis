@@ -24,3 +24,14 @@ html {
   font-weight: 300;
   font-style: normal;
 }
+
+.videoStatus {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  justify-content: center;
+  display: flex;
+}
+
+.statusPresentasjon {
+  padding-top: 1rem;
+}
