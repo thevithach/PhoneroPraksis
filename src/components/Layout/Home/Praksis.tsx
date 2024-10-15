@@ -46,11 +46,32 @@ const Praksis = () => {
             <p className=" text-gray-600">Høst Internship med Phonero</p>
             <h2 className="text-3xl font-medium">Phonero - Status 1</h2>
             <p className="py-2">
-              Kommer etterhvert 🚀 Lorem ipsum dolor sit amet, consectetur
-              adipiscing elit. Curabitur libero nulla, mollis sit amet molestie
-              a, volutpat at nibh. Etiam quis pellentesque ante.
+              Gjennom denne reisen vil vi dokumentere vår fremgang. Dette er den
+              første oppdateringen, hvor vi skal snakkee om prosjektet,
+              selskapet og de tre første ukene av praksisoppholdet.
             </p>
             <Link to="/Phonero/Status/1">
+              <button className="w-36 h-10 bg-gradient-to-r from-red-400  to-red-500 text-white rounded-md hover:opacity-90">
+                Les mer
+              </button>
+            </Link>
+          </div>
+          <div className="">
+            <img
+              src={phonero}
+              className="object-contain rounded-lg shadow-md  "
+            />
+          </div>
+          <div className="p-4">
+            <p className=" text-gray-600">Høst Internship med Phonero</p>
+            <h2 className="text-3xl font-medium">Phonero - Status 2</h2>
+            <p className="py-2">
+              Vi har nå gjennomgått to måneder med praksis, hvor vi har fått
+              lært mye. Gjennom denne statusoppdateringen går vi gjennom hva vi
+              har lært, hva vi har fått gjort og hvilke utfordringer som har
+              oppstått.
+            </p>
+            <Link to="/Phonero/Status/2">
               <button className="w-36 h-10 bg-gradient-to-r from-red-400  to-red-500 text-white rounded-md hover:opacity-90">
                 Les mer
               </button>
