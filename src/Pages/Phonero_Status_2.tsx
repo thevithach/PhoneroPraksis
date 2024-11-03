@@ -78,6 +78,22 @@ const Phonero_Status_2 = () => {
           </p>
         </div>
       </div>
+      <div className="statusPresentasjon">
+        <h2 className="text-2xl font-bold">Phonero Praksis Expo</h2>
+        <div className="videoStatus">
+          <iframe
+            width="640"
+            height="360"
+            src="https://www.youtube.com/embed/3CpYzzf5hEo?si=MbHRt1jVecvyhi5W"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerPolicy="strict-origin-when-cross-origin"
+            allowFullScreen
+            style={{ float: "left" }}
+          ></iframe>
+        </div>
+      </div>
     </div>
   );
 };
