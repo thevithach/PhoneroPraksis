@@ -26,9 +26,9 @@ html {
 }
 
 .videoStatus {
-  padding: 1rem;
+  padding-top: 1rem;
   border-radius: 0.5rem;
-  justify-content: center;
+  justify-content: left;
   display: flex;
 }
 
