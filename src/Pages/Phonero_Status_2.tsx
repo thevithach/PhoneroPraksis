@@ -78,6 +78,12 @@ const Phonero_Status_2 = () => {
           </p>
         </div>
       </div>
+      <div className="statusPresentasjon">
+        <h2 className="text-2xl font-bold">Status 1 - Presentasjon</h2>
+        <div className="videoStatus">
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/3CpYzzf5hEo?si=LDjcyVggRDd62-w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
     </div>
   );
 };
