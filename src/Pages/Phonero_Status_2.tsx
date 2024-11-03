@@ -1,4 +1,3 @@
-import { text } from "stream/consumers";
 import phonero from "../assets/phoneroLogoSmall.png";
 import phoneroPhoneView from "../assets/PhoneroMobileView.png";
 
@@ -87,10 +86,10 @@ const Phonero_Status_2 = () => {
             height="360"
             src="https://www.youtube.com/embed/3CpYzzf5hEo?si=MbHRt1jVecvyhi5W"
             title="YouTube video player"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
-            allowfullscreen
+            referrerPolicy="strict-origin-when-cross-origin"
+            allowFullScreen
             style={{ float: "left" }}
           ></iframe>
         </div>
