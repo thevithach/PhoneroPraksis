@@ -1,5 +1,4 @@
 import phonero from "../assets/phoneroLogoSmall.png";
-import phoneroPhoneView from "../assets/PhoneroMobileView.png";
 
 const Phonero_Refleksjon = () => {
   return (
