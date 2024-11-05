@@ -4,6 +4,7 @@ import Home from "./Pages/Home";
 import Phonero_Oppgavebeskrivelse from "./Pages/Phonero_Oppgavebeskrivelse";
 import Phonero_Status_1 from "./Pages/Phonero_Status_1";
 import Phonero_Status_2 from "./Pages/Phonero_Status_2";
+import Phonero_Refleksjon from "./Pages/Phonero_Refleksjon";
 
 function App() {
   return (
@@ -18,6 +19,10 @@ function App() {
           />
           <Route path="/Phonero/Status/1" element={<Phonero_Status_1 />} />
           <Route path="/Phonero/Status/2" element={<Phonero_Status_2 />} />
+          <Route
+            path="/Phonero/Status/Refleksjon"
+            element={<Phonero_Refleksjon />}
+          />
         </Routes>
       </Router>
     </>
